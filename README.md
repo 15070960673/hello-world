@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+  hey bro!
+  我是一个小菜鸟！
+  也会变成大怪兽！
